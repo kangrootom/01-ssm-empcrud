@@ -1,0 +1,6 @@
+com\toutiao\ssmcrud\controller\UserController.class
+com\toutiao\ssmcrud\common\ResultData.class
+com\toutiao\ssmcrud\entity\User.class
+com\toutiao\ssmcrud\service\UserService.class
+com\toutiao\ssmcrud\service\impl\UserServiceImpl.class
+com\toutiao\ssmcrud\dao\UserMapper.class
